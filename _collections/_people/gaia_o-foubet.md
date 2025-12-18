@@ -1,10 +1,10 @@
 ---
 layout:
 name: Ophélie Foubet
-desc: Postdoc 2020-2024 (under superv. J.-F. Mangin)
-position: alumni
+desc: Postdoc 2025-2028 (under superv. J.-F. Mangin)
+position: postdoc
 cat: gaia
 subcat: architecture
 avatar:
-joined: 2020
+joined: 2025
 ---
