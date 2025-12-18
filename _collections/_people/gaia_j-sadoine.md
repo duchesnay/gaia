@@ -2,7 +2,7 @@
 layout:
 name: Jérémy Sadoine
 desc: Engineer 2025- (under co-superv. A Gaudin, A Grigis)
-position: engineer
+position: cdd
 cat: gaia
 subcat: gaia-analysis-platform
 avatar:
