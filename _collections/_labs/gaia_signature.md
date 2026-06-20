@@ -16,7 +16,7 @@ permalink: teams/gaia-signature.html
 <div class="content">
   <header><p>{{ page.title }} team</p></header>
   <p>
-Design of machine learning and statistical models to uncover neural signatures psychiatric disorders. Our goal is to harness the power of data by overseeing the effective management of multiple large-scale national and European initiatives. This will allow us to train and refine AI models to their fullest potential.
+Our team aims to design machine learning and statistical models that uncover the neural signatures of psychiatric disorders. Our goal is to harness the power of data through the effective management of multiple large-scale national and European initiatives, enabling us to train and refine AI models to their fullest potential.
   </p>
   <p>
     <b> Leader: </b>
@@ -34,11 +34,11 @@ Design of machine learning and statistical models to uncover neural signatures p
 
 <!-- Content -->
 <br>
-AAArtificial Intelligence (AI) combined with neuroimaging opens up possibilities for personalized medicine. With this long-term objective, we developed four lines of research:
+Artificial Intelligence (AI) combined with neuroimaging opens up possibilities for personalized medicine. With this long-term objective, we developed four lines of research:
 
 **MODELS TO PRODUCE INT​​​ERPRETABLE BRAIN SIGNATURES OF DISORDERS**
 
-We investigated new predictive linear models that integrate prior biological knowledge to force the solution to adhere to biological priors, producing more plausible interpretable signatures. These models have been used to uncover an anatomical pattern of schizophrenia and a functional pattern for hallucinations. We embraced the applied mathematic challenge of creating scalable optimization solvers [for high-dimensional neuroimaging data while being flexible enough to integrate various priors.
+We investigated new predictive linear models that integrate prior biological knowledge to force the solution to adhere to biological priors, producing more plausible interpretable signatures. These models have been used to uncover an anatomical pattern of schizophrenia and a functional pattern for hallucinations. We embraced the applied mathematic challenge of creating scalable optimization solvers for high-dimensional neuroimaging data while being flexible enough to integrate various priors.
 
 **MODELS TO ​​BRIDGE THE GAP BETWEEN BIG AND SMALL DATA**
 
