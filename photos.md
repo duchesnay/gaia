@@ -14,7 +14,7 @@ permalink: /photos/
 
 
 <header class="major">
-  <h2>2025/09/01: Gaia lab. at OHBM26</h2>
+  <h2>2026/06/18: Gaia lab. at OHBM26</h2>
 </header>
 
 
