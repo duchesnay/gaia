@@ -16,6 +16,17 @@ permalink: /photos/
      alt="Group"
      style="display: block; margin: 0 auto; width: 100%;" />
 
+
+<header class="major">
+  <h2>2025/12/18: Christmas 2025</h2>
+</header>
+
+
+<img src="{{site.url}}{{site.baseurl}}/images/photos/gaia-lab_20251218.jpg"
+     alt="Group"
+     style="display: block; margin: 0 auto; width: 100%;" />
+     
+
 <header class="major">
   <h2>2025/09/01: Gaia lab. in front of NeuroSpin</h2>
 </header>
